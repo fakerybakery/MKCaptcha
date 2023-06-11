@@ -1,3 +1,4 @@
+<?php
 function generateCaptcha($str) {
 
     $width = strlen($str) * 25;
